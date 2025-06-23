@@ -16,7 +16,7 @@
 - Email: enzosegovia@example.com
 
 
-![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzosegovia&show_icons=true&theme=github_dark)
+![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubestudio&show_icons=true&theme=github_dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzosegovia&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubestudio&layout=compact&theme=github_dark)
