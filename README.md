@@ -12,9 +12,7 @@
 - Tools: Git, GitHub, Visual Studio Code
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/enzosegovia](https://linkedin.com/in/dev-enzos-hernan-egovia)
-- Email: enzosegovia@example.com
-
+- LinkedIn: [linkedin.com/in/dev-enzo-hernan-segovia](https://linkedin.com/in/dev-enzos-hernan-egovia)
 
 ![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubestudio&show_icons=true&theme=github_dark)
 
