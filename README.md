@@ -13,12 +13,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubestudio&layout=compact&theme=github_dark)
 
-## 🔧 Technologies I’m working with:
-- Frontend: HTML, CSS, JavaScript, React, TypeScript
-- Backend: Node.js, Express
-- DB: MongoDB, SQL Server
-- Tools: Git, GitHub, Visual Studio Code
-
 ![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githubestudio&show_icons=true&theme=github_dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=githubestudio&theme=dark)](https://git.io/streak-stats)
