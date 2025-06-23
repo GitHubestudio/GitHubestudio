@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi! I'm Enzo Hernán Segovia
 
-<!--
-**GitHubestudio/GitHubestudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm a programming student and aspiring Full Stack Developer (MERN & .NET).  
+💡 Currently learning JavaScript, React, Node.js and practicing with real projects.  
+💼 Looking for my first opportunity in tech.  
+🌍 Based in Argentina, open to remote work.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I’m working with:
+- Frontend: HTML, CSS, JavaScript, React, TypeScript
+- Backend: Node.js, Express
+- DB: MongoDB, SQL Server
+- Tools: Git, GitHub, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: [linkedin.com/in/enzosegovia](https://linkedin.com/in/dev-enzos-hernan-egovia)
+- Email: enzosegovia@example.com
+
+
+![Enzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzosegovia&show_icons=true&theme=github_dark)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzosegovia&layout=compact&theme=github_dark)
