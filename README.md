@@ -18,6 +18,6 @@
 
 
 ## 📫 Contact
-- LinkedIn: [linkedin.com/in/dev-enzo-hernan-segovia](https://linkedin.com/in/dev-enzos-hernan-egovia)
+- LinkedIn: [linkedin.com/in/dev-enzo-hernan-segovia](https://linkedin.com/in/dev-enzo-hernan-segovia)
 
 
