@@ -1,5 +1,10 @@
 # 👋 Hi! I'm Enzo Hernán Segovia
 
+🎯 I'm a programming student and aspiring Full Stack Developer (MERN & .NET).  
+💡 Currently learning JavaScript, React, Node.js and practicing with real projects.  
+💼 Looking for my first opportunity in tech.  
+🌍 Based in Argentina, open to remote work.
+
 ## 💻 Tech Stack
 ### Frontend: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
@@ -12,13 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 
 ### Herramientas y Pruebas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" style="background-color:white; border-radius:3px; padding:2px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
-
-
-🎯 I'm a programming student and aspiring Full Stack Developer (MERN & .NET).  
-💡 Currently learning JavaScript, React, Node.js and practicing with real projects.  
-💼 Looking for my first opportunity in tech.  
-🌍 Based in Argentina, open to remote work.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" style="filter: invert(100%);"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubestudio&layout=compact&theme=github_dark)
