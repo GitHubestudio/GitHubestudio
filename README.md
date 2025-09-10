@@ -1,8 +1,10 @@
 # 👋 Hi! I'm Enzo Hernán Segovia 
 
-🎯 I'm a programming student and aspiring Full Stack Developer (MERN & .NET).  
+🎯 I'm a programming student and aspiring Full Stack Developer (MERN & .NET). 
 💡 Currently learning JavaScript, React, Node.js and practicing with real projects. A recent project includes a **Sony API**, which I developed to practice backend fundamentals and RESTful architecture.
+
 💼 I'm actively seeking my first opportunity in tech to apply my skills and continue learning in a professional environment. 
+
 🌍 I'm based in Argentina and open to remote work.
 
 
